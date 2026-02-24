@@ -1,0 +1,11 @@
+.header{
+    position: relative;
+    width: 80%;
+
+}
+.heder, footer{
+    background-color: blanchedalmond;
+    color: darkolivegreen;
+    padding: 2%;
+    clear: both;
+}
